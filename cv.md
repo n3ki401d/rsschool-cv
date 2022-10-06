@@ -31,3 +31,9 @@ I attempted to build the game logic for a Texas Hold'Em Poker game.
 ### **Stack:** JS, HTML\CSS;
 
 ---
+## **Education**:
+
+- **SHPP Computer science cource**;
+- **Pursuing Bachelor's Degree in Cybernetics | National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**;
+
+---
