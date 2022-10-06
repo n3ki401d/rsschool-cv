@@ -44,3 +44,9 @@ For now, my English level is approximately B1 and I can read tech documentation 
 Every day I'm trying to improve it by reading books in English and learning new vocabulary and grammar. Also, I'm trying to read almost all content in English, so I'm hoping my English will become better soon :)
 
 ---
+
+## **Hobbies and interests**:
+
+- Esports
+- Chess
+- Cycling
