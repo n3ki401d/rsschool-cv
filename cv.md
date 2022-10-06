@@ -9,11 +9,11 @@
 ---
 
 ## **Skills**:
-- HTML\CSS&emsp;**(Basic)**
-- JS&emsp;&emsp;&emsp;&emsp;**(Basic)**
-- Java&emsp;&emsp;&emsp;**(Basic)**
-- Git&emsp;&emsp;&emsp;**(Medium)**
-- C\C++&emsp;&emsp;**(Basic)**
+- HTML\CSS&emsp;&nbsp;**(Basic)**
+- JS&emsp;&emsp;&emsp;&emsp;&emsp;**(Basic)**
+- Java&emsp;&emsp;&emsp;&emsp;**(Basic)**
+- Git&emsp;&emsp;&emsp;&emsp;&ensp;**(Medium)**
+- C\C++&emsp;&emsp;&emsp;**(Basic)**
 
 ---
 
@@ -40,7 +40,7 @@ I attempted to build the game logic for a Texas Hold'Em Poker game.
 ---
 
 ## **English**:
-&emsp;For now, my English level is approximately B1 and I can read tech documentation without any problems.   
+For now, my English level is approximately B1 and I can read tech documentation without any problems.   
 Every day I'm trying to improve it by reading books in English and learning new vocabulary and grammar. Also, I'm trying to read almost all content in English, so I'm hoping my English will become better soon :)
 
 ---
