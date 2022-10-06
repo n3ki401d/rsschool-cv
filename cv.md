@@ -1,5 +1,5 @@
-**Kriachko Mykyta** | Ukrainian | Located in Kyiv  
-+380999999999   | nik.flyme.criachko@gmail.com  | [Github](https://github.com/n3ki401d)
+**Kriachko Mykyta**&emsp; Ukrainian &emsp; Located in Kyiv  
++380999999999   &emsp;nik.flyme.criachko@gmail.com  &emsp; [Github](https://github.com/n3ki401d)
 
 ---
 
@@ -35,7 +35,7 @@ I attempted to build the game logic for a Texas Hold'Em Poker game.
 ## **Education**:
 
 - **SHPP Computer science cource**;  
-- **Pursuing Bachelor's Degree in Cybernetics** | **National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**;
+- **Pursuing Bachelor's Degree in Cybernetics** **(National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute")**;
 
 ---
 
