@@ -4,16 +4,17 @@
 
 ---
 
-        For now, a student pursuing an undergraduate degree at a university. My main goal, for now, is to become a full-stack web developer to work on exciting and perspective projects and also to implement my ideas into reality. I am currently attending several self-paced courses about web development. 
-        Very motivated to learn new things about web development and meet new people in the IT industry, and I am a good team player. I love challenges and the process of overcoming them. 
+&emsp;For now, a student pursuing an undergraduate degree at a university. My main goal, for now, is to become a full-stack web developer to work on exciting and perspective projects and also to implement my ideas into reality. I am currently attending several self-paced courses about web development.  
+&emsp;Very motivated to learn new things about web development and meet new people in the IT industry, and I am a good team player. I love challenges and the process of overcoming them. 
+
 ---
 
 ## **Skills**:
-- HTML\CSS&nbsp;&nbsp;&nbsp;**(Basic)**
-- JS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Basic)**
-- Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Basic)**
-- Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Medium)**
-- C\C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Basic)**
+- HTML\CSS&emsp;**(Basic)**
+- JS&emsp;&emsp;&emsp;&emsp;**(Basic)**
+- Java&emsp;&emsp;&emsp;**(Basic)**
+- Git&emsp;&emsp;&emsp;**(Medium)**
+- C\C++&emsp;&emsp;**(Basic)**
 
 ---
 
@@ -34,19 +35,20 @@ I attempted to build the game logic for a Texas Hold'Em Poker game.
 
 ## **Education**:
 
-- **SHPP Computer science cource**;
+- **SHPP Computer science cource**;  
 - **Pursuing Bachelor's Degree in Cybernetics | National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**;
 
 ---
 
 ## **English**:
-For now, my English level is approximately B1 and I can read tech documentation without any problems.   
+&emsp;For now, my English level is approximately B1 and I can read tech documentation without any problems.   
 Every day I'm trying to improve it by reading books in English and learning new vocabulary and grammar. Also, I'm trying to read almost all content in English, so I'm hoping my English will become better soon :)
 
 ---
 
 ## **Hobbies and interests**:
-
 - Esports
 - Chess
 - Cycling
+
+---
