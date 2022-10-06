@@ -1,2 +1,1 @@
-# rsschool-cv
-CV task for rs-school ;)
+https://n3ki401d.github.io/rsschool-cv/cv
