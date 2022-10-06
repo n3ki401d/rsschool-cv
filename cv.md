@@ -10,10 +10,10 @@
 
 ## **Skills**:
 - HTML\CSS&emsp;&nbsp;**(Basic)**
-- JS&emsp;&emsp;&emsp;&emsp;&emsp;**(Basic)**
+- JS&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;**(Basic)**
 - Java&emsp;&emsp;&emsp;&emsp;&nbsp;**(Basic)**
 - Git&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp;**(Medium)**
-- C\C++&emsp;&emsp;&emsp;&nbsp;**(Basic)**
+- C\C++&emsp;&emsp;&emsp;&nbsp;&nbsp;**(Basic)**
 
 ---
 
