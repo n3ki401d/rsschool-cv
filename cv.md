@@ -15,5 +15,19 @@
 - Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Medium)**
 - C\C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Basic)**
 
+---
+
+## **Experience**:
+### Unfortunately I don't have any commercial experience. But I have done some pet projects.
+
+### [**Chat application**](#some_link_to_re)
+Casual chat application written in JS using WebSocket API.
+
+### **Stack:** JS, Express, WebSocket, HTML\CSS;
+
+### [**Poker game**](#some_link_to_repo)
+I attempted to build the game logic for a Texas Hold'Em Poker game.
+
+### **Stack:** JS, HTML\CSS;
 
 ---
