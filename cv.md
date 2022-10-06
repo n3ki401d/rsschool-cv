@@ -1,5 +1,5 @@
 **Kriachko Mykyta**&emsp; Ukrainian &emsp; Located in Kyiv  
-+380999999999   &emsp;nik.flyme.criachko@gmail.com  &emsp; [Github](https://github.com/n3ki401d)
++380999999999   &emsp;&ensp;nik.flyme.criachko@gmail.com  &emsp; [Github](https://github.com/n3ki401d)
 
 ---
 
