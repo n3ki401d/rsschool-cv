@@ -17,6 +17,21 @@
 
 ---
 
+## **Code examples**:
+```javascript
+if (0 == "0") {
+    console.log("Yes");
+}
+if (0 == []) {
+    console.log("Yes");
+}
+if ("0" == []) {
+    console.log("Why?");
+}
+```
+---
+
+
 ## **Experience**:
 ### Unfortunately I don't have any commercial experience. But I have done some pet projects.
 
