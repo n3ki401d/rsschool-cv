@@ -3,6 +3,9 @@ html {
     color: aliceblue;
 }
 
+.cv-heading {
+    text-align: center;
+}
 
 .cv-content {
     margin: auto;
@@ -25,6 +28,10 @@ html {
 
 .footer {
     text-align: center;
+}
+
+.git-logo {
+    width: 100px; height:auto
 }
 
 a {
