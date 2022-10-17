@@ -1,0 +1,34 @@
+html {
+    background-color: #1e1e1e;
+    color: aliceblue;
+}
+
+
+.cv-content {
+    margin: auto;
+    width: 50%;
+    border: 1px solid white;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+
+.header-info li, .header-contacts li{
+    display: inline;
+    padding-right: 20px;
+}
+
+.footer-links ul li {
+    display: inline;
+    padding-right: 50px;
+}
+
+.footer {
+    text-align: center;
+}
+
+a {
+    color: #5092f9;
+    list-style: none;
+    text-decoration: none;
+}
